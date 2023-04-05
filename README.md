@@ -21,3 +21,5 @@ help you with your studying.
 ## how to contribute
 
 ## license
+
+the open-sourced repository of the Python project called studysuite is under the GPLv2 license.
