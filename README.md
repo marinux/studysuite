@@ -11,3 +11,13 @@ help you with your studying.
  - [the how]()
  - [how to contribute]()
  - [license]()
+ 
+## what ***studysuite*** is
+
+## the why
+
+## the how
+
+## how to contribute
+
+## license
